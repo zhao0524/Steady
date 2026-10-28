@@ -1,7 +1,7 @@
 # Project Context
 
 Last updated: 2026-10-27
-Updated by: Repository moved to https://github.com/zhao0524/Steady (origin); README project summary and clone instructions added
+Updated by: Repository moved to https://github.com/zhao0524/Steady (origin); README project summary, clone instructions, and package.json description/keywords added
 Current milestone: V1 surgical targets with reliable fullscreen and focus-view fallback
 Working state: main imported from RohanGottipati/Steady at 7697405 and pushed to the zhao0524/Steady origin; delivery branch main; no deployment performed
 Physical acceptance: pending on target Mac/Chrome

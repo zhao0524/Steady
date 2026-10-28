@@ -57,5 +57,17 @@
     "typescript": "^5",
     "vitest": "^5.0.5"
   },
-  "description": "Hardware-free AI surgical motion trainer"
+  "description": "Practice surgical hand skills with just a webcam. Real-time hand tracking (MediaPipe) drives virtual instruments in a 3D operating room, with scoring, coaching, and replay against a reference motion.",
+  "keywords": [
+    "surgical-simulation",
+    "hand-tracking",
+    "mediapipe",
+    "webcam",
+    "threejs",
+    "react-three-fiber",
+    "nextjs",
+    "typescript",
+    "medical-education",
+    "computer-vision"
+  ]
 }
