@@ -1,5 +1,7 @@
 # Steady
 
+> Practice surgical hand skills with nothing but a laptop webcam: real-time hand tracking drives virtual instruments in a 3D operating room, and every attempt is scored, coached, and replayed against a reference motion.
+
 Steady is a webcam-controlled surgical motion simulator. Practice precise instrument movements with your laptop camera, follow a reference ghost, receive coaching, and compare your recorded movement with the guide in a 3D replay.
 
 The application is for simulation practice. Its scores describe motion in the simulator; they do not certify clinical competence or predict patient outcomes.
@@ -62,6 +64,13 @@ docs/             Engineering context, architecture plan, subsystem notes, licen
 - Optional: `git-crypt` and the repository key to unlock the tracked `.env.local`; Python 3 with `requirements.txt` only for the offline dataset adapters in `scripts/data/`.
 
 ### Setup
+
+Clone the repository:
+
+```bash
+git clone https://github.com/zhao0524/Steady.git
+cd Steady
+```
 
 This repository intentionally tracks `.env.local` encrypted with git-crypt. Obtain the existing repository key securely from a maintainer and unlock your clone:
 

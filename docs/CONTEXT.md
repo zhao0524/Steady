@@ -1,9 +1,9 @@
 # Project Context
 
-Last updated: 2026-10-26
-Updated by: Repository cleanup (unused files/dependencies removed) and README refresh
+Last updated: 2026-10-27
+Updated by: Repository moved to https://github.com/zhao0524/Steady (origin); README project summary and clone instructions added
 Current milestone: V1 surgical targets with reliable fullscreen and focus-view fallback
-Working state: latest remote main integrated with fullscreen fallback; delivery branch main; no deployment performed
+Working state: main imported from RohanGottipati/Steady at 7697405 and pushed to the zhao0524/Steady origin; delivery branch main; no deployment performed
 Physical acceptance: pending on target Mac/Chrome
 
 ## 0. Agent Operating Rules (READ FIRST)
